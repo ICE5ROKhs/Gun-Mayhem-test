@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="jlayer-1.0.1.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/log4j-api-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/log4j-core-2.18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqlite-jdbc-3.36.0.3.jar!/" />
+      <root url="file://$PROJECT_DIR$/lib" />
+      <root url="jar://$PROJECT_DIR$/lib/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mail-1.4.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+  </library>
+</component>
